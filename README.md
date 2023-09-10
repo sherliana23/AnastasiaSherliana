@@ -15,7 +15,7 @@ Anastasia Sherliana</a></h1>
 <img src="https://img.shields.io/badge/-Anastasia Sherliana-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/Anastasia Sherliana/" alt="Instagram Badge">
 </a> 
 
-[![GitHub followers](https://img.shields.io/github/followers/sherliana23.svg?style=social&label=Followers)](https://github.com/sherliana23?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/sherliana23.svg?style=social&label=Followers)](https://github.com/sherliana23?tab=followers) ![GitHub User's stars](https://img.shields.io/github/stars/sherliana23?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sherliana23.repoName)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherliana23" alt="sherliana23" /> </p>
 
