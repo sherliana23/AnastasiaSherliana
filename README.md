@@ -6,3 +6,6 @@ Anastasia Sherliana</a></h1>
 ### Glad to see you here!
 I'm a undergraduate in Geophysics 🎓 at Gadjah Mada University 🏛.
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
