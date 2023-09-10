@@ -10,6 +10,7 @@ Anastasia Sherliana</a></h1>
 ## About Me 👩🏽
 
 🏢 I'm a undergraduate in **Geophysics** at [Gadjah Mada University](https://ugm.ac.id)
+
 🏡'Lives in [**Yogyakarta, Indonesia**](https://jogjaprov.go.id)
 
 
