@@ -11,7 +11,7 @@ Anastasia Sherliana</a></h1>
 
 🏢 I'm a undergraduate in **Geophysics** at [Gadjah Mada University](https://ugm.ac.id)
 
-🏡'Lives in [**Yogyakarta, Indonesia**](https://jogjaprov.go.id)
+🏡 Lives in [**Yogyakarta, Indonesia**](https://jogjaprov.go.id)
 
 
 ## By the way here are some of my statistics 🚀
