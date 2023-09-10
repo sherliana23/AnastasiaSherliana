@@ -9,8 +9,6 @@ Anastasia Sherliana</a></h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/sherliana23?style=social) ![stars](https://img.shields.io/github/stars/sherliana23?style=social)  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherliana23&label=Profile%20views&color=0e75b6&style=flat" alt="sherliana23" /> </p>
 
-<img align="right" width="375" alt="GIF" src="https://[github.com/sherliana23/sherliana23/blob/v2/img/dino.gif" />
-
 
 ## About Me 👩🏽
 
@@ -18,7 +16,10 @@ Anastasia Sherliana</a></h1>
 
 🏡 Lives in [**Yogyakarta, Indonesia**](https://jogjaprov.go.id)
 
+💻 I'm currently learning **Python**
 
-## By the way here are some of my statistics 🚀
+☂️ My hobbies are **listen music 🎵**
+
+## Here are my statistics 🚀
 ![Anastasia Sherliana's github stats](https://github-readme-stats.vercel.app/api?username=sherliana23&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherliana23&theme=tokyonight" alt="mystreak"/>
