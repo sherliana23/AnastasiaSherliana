@@ -17,6 +17,7 @@ Anastasia Sherliana</a></h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/sherliana23.svg?style=social&label=Followers)](https://github.com/sherliana23?tab=followers)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherliana23" alt="sherliana23" /> </p>
 
 ## About Me 👩🏽
 
