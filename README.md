@@ -8,6 +8,7 @@ Anastasia Sherliana</a></h1>
 ![GitHub followers](https://img.shields.io/github/followers/sherliana23?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherliana23&label=Profile%20views&color=0e75b6&style=flat" alt="sherliana23" /> </p>
 
 ## About me 👩
+🏢 I'm a undergraduate in **Geophysics** at [Gadjah Mada University](https://ugm.com/contact-us/)
 I'm a undergraduate in Geophysics 🎓 at Gadjah Mada University 🏛.
 
 ## By the way here are some of my statistics 🚀
