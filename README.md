@@ -10,5 +10,3 @@ I'm a undergraduate in Geophysics 🎓 at Gadjah Mada University 🏛.
 ## By the way here are some of my statistics 🚀
 ![Anastasia Sherliana's github stats](https://github-readme-stats.vercel.app/api?username=sherliana23&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherliana23&theme=tokyonight" alt="mystreak"/>
-![Anastasia Sherliana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherliana23&theme=tokyonight&layout=compact)
-
