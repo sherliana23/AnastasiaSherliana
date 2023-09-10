@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/sherliana23/sherliana23.git/" target="blank">
 Anastasia Sherliana</a></h1>
-### Glad to see you here!
+
+## Glad to see you here! 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_asherliaa/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/inisherli) 
 
