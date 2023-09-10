@@ -18,7 +18,7 @@ Anastasia Sherliana</a></h1>
 
 💻 I'm currently learning **Python**
 
-☂️ My hobbies are **listen music 🎵**
+☂️ My hobbies are **listen music 🎵 and read novel 📔**
 
 ## Here are my statistics 🚀
 ![Anastasia Sherliana's github stats](https://github-readme-stats.vercel.app/api?username=sherliana23&show_icons=true&theme=tokyonight)
