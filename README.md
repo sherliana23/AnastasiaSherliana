@@ -33,4 +33,4 @@ Anastasia Sherliana</a></h1>
 
 ## Here are my statistics 🚀
 ![Anastasia Sherliana's github stats](https://github-readme-stats.vercel.app/api?username=sherliana23&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sherliana23&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sherliana23&theme=tokyonight" alt="mystreak"/> 
